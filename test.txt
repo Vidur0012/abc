@@ -1,2 +1,2 @@
 Hello there this git prac.
-this is second line.
+this is updated second line.
