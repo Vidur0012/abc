@@ -1,3 +1,7 @@
 Hello there this git prac.
 this is updated second line.
+<<<<<<< HEAD
 this is fourth line added by prac2.
+=======
+this is third line.
+>>>>>>> 3fb7fa3212ee9af51b02d00fbe10b24427c949b8
